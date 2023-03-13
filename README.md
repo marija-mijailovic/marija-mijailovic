@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/marija-mijailovic/count.svg)
+
 <!--
 **marija-mijailovic/marija-mijailovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
